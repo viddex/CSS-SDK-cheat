@@ -1,2 +1,2 @@
 # CSS-SDK-cheat
-A shitty simple CSS source
+A shitty simple Counter Strike Source cheat base
